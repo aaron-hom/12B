@@ -1,0 +1,10 @@
+Files Submitted
+
+README
+Makefile
+Dictionary.c
+DictionaryTest.c
+Dictionary.h
+DictionaryClient.c
+
+NOTE: I didn't actually know what was going on in the error I got when checking for a memory leak. I asked about it on Piazza, but no one answered. Hopefully it doesn't take too many points off. Just thought you should know. Thanks!
